@@ -4,4 +4,6 @@
 
 I build infrastructure for AI systems. Focused on reliable workflows, safety controls, telemetry, and evaluation for coding agents.
 
-One of my recent projects is [Turnlock](https://github.com/fanilosendrison/turnlock), a lightweight, harness-agnostic runtime. I started building it because in a coding-agent session, a skill is at best `an agent running a script`. I wanted mine to be more like `scripts running agents` - with no additional friction.
+My current project is [Turnlock](https://github.com/fanilosendrison/turnlock), a lightweight, harness-agnostic runtime. I build it because in a coding-agent session, a skill is at best `an agent running a script`. I wanted mine to be more like `scripts running agents` - with no additional friction.
+
+Taught myself to code in 2015, building Java/Selenium bots and deploying them through AWS instances. But for some reason, I like specs more than code.
