@@ -1,11 +1,9 @@
 ## Hi, I'm Fanilo
 
-📍 Brussels, BE 🔧 Open source infra for coding agents ⚡ AI Systems Engineer
+📍 Paris, FR ⚡ AI Systems Engineer
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) · ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) · ![Pi](https://img.shields.io/badge/Pi-A8B9CC?logo=pi&logoColor=white&style=for-the-badge) · ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white&style=for-the-badge) · ![Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white&style=for-the-badge) · ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?logo=google&logoColor=white&style=for-the-badge) · ![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white&style=for-the-badge)
+I spent this year building dev infrastructure for agentic software systems. Mostly the parts that become painful once software development starts involving long-running workflows, coding agents, concurrency, retries, failures, and shared code state. Basically, the infrastructure required to make agentic software development boring and reliable. I like to build things that are not going to wake me up at 3 AM.
 
-I build infrastructure for AI systems. Focused on reliable workflows, safety controls, telemetry, and evaluation for coding agents.
+My current projects are Ruu [Ruu](https://github.com/fanilosendrison/ruu) and Turnlock-Rust [Turnlock-Rust](https://github.com/fanilosendrison/turnlock-rust). If you're really building softwares with agents, you might like it.
 
-My current project is [Turnlock](https://github.com/fanilosendrison/turnlock), a lightweight, harness-agnostic runtime. I build it because in a coding-agent session, a skill is at best `an agent running a script`. I wanted mine to be more like `scripts running agents` - with no additional friction.
-
-Taught myself to code in 2015, building Java/Selenium bots and deploying them through AWS instances. But for some reason, I like specs more than code.
+Taught myself to code in 2015, building Java/Selenium bots and deploying them through AWS instances. For some reason, I ended up liking specs more than code.
